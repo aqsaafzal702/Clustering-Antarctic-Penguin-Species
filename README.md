@@ -2,7 +2,7 @@
 This project was completed as part of the Unsupervised Learning in Python course on DataCamp. T
 
 ## Certification
-I have completed the Unsupervised Learning in Python course on DataCamp. You can find the course completion certificate [here](link to the PDF in this repository).
+I have completed the Unsupervised Learning in Python course on DataCamp. You can find the course completion certificate [here][(link to the PDF in this repository).](https://github.com/aqsaafzal702/Clustering-Antarctic-Penguin-Species/blob/main/Unsupervised%20Learning%20in%20Python.pdf)
 
 # Clustering-Antarctic-Penguin-Species
 This project demonstrates the use of K-Means clustering on a penguin dataset to group penguins into distinct clusters based on their physical features. The dataset includes measurements of culmen length, culmen depth, and flipper length, which were used to perform the clustering.
